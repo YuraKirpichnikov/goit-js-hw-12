@@ -3,9 +3,10 @@
   "version": "1.0.0",
   "description": "GoIT JS HW-12: async/await, pagination, Pixabay API image search",
   "type": "module",
+  "homepage": "https://yurakirpichnikov.github.io/goit-js-hw-12/",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build --base=/goit-js-hw-12/",
     "preview": "vite preview"
   },
   "dependencies": {
